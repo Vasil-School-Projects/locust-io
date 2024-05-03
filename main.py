@@ -1,5 +1,7 @@
 """
 Simple locust.io demo testing file.
+
+Run using locust -f main.py
 """
 
 from locust import HttpUser, task, between, tag

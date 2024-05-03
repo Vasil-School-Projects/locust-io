@@ -1,5 +1,7 @@
 """
 A simple FastAPI application to demonstrate locust.io
+
+Run using uvicorn main:app --reload
 """
 
 import time
